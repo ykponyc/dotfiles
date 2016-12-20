@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg1325"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/qwerty/.icons/MonoBlack/scalable/apps"
+   sodipodi:docname="gnome-panel.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/qwerty/.icons/MonoBlack/48x48/apps/gnome-panel.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     inkscape:window-height="614"
+     inkscape:window-width="772"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10000"
+     gridtolerance="10000"
+     objecttolerance="10000"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="4.2395834"
+     inkscape:cx="19.609393"
+     inkscape:cy="5.0093232"
+     inkscape:window-x="507"
+     inkscape:window-y="380"
+     inkscape:current-layer="layer1"
+     showgrid="true" />
+  <defs
+     id="defs1327">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2262">
+      <stop
+         style="stop-color:#d3d7cf;stop-opacity:1;"
+         offset="0"
+         id="stop2264" />
+      <stop
+         style="stop-color:#d3d7cf;stop-opacity:0;"
+         offset="1"
+         id="stop2266" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2262"
+       id="linearGradient2268"
+       x1="31.872892"
+       y1="20.6875"
+       x2="46.704754"
+       y2="20.6875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.7936118e-8,-8)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2262"
+       id="linearGradient4132"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.1867322e-7,-8.0000001)"
+       x1="31.872892"
+       y1="20.6875"
+       x2="46.704754"
+       y2="20.6875" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2262"
+       id="linearGradient4134"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.7936118e-8,-8)"
+       x1="31.872892"
+       y1="20.6875"
+       x2="46.704754"
+       y2="20.6875" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="29.202731"
+     inkscape:cy="14.650528"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     stroke="#eeeeec"
+     fill="#2e3436"
+     inkscape:window-width="1270"
+     inkscape:window-height="943"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     showborder="false"
+     gridspacingx="0.5px"
+     gridspacingy="0.5px"
+     gridempspacing="2"
+     inkscape:grid-points="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="false">
+    <sodipodi:guide
+       orientation="vertical"
+       position="31.875"
+       id="guide2260" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1330">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Panel</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lapo Calamandrei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>panel</rdf:li>
+            <rdf:li>menu</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.99999928;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 1.8125,7.5 C 0.78178874,7.5971414 -0.0044642085,8.4647308 -8.7720709e-17,9.5 L 0,38.5 C 0.00011021498,39.604524 0.89547616,40.49989 2,40.5 L 46,40.5 C 47.104524,40.49989 47.99989,39.604524 48,38.5 L 48,9.5 C 47.99989,8.3954762 47.104524,7.5001102 46,7.5 L 2,7.5 C 1.9375344,7.497069 1.8749656,7.497069 1.8125,7.5 L 1.8125,7.5 z M 4,11.5 L 44,11.5 L 44,36.5 L 4,36.5 L 4,11.5 z "
+       id="rect1333" />
+    <g
+       id="layer6"
+       inkscape:label="tmp3"
+       style="fill:#2e3436;display:inline"
+       transform="translate(7.336101,-0.480508)">
+      <g
+         id="g2450"
+         style="fill:#2e3436;fill-opacity:1;display:inline"
+         transform="matrix(1.111126,0,0,1.11111,-1.111123,-1.999954)">
+        <path
+           id="path4490"
+           d="M 29.825673,13.93243 C 25.873042,13.93243 25.131582,19.562222 27.355158,19.562222 C 29.578413,19.562222 33.778465,13.93243 29.825673,13.93243 z "
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99639398;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="path4492"
+           d="M 23.262429,18.864623 C 24.446355,18.936922 25.745315,14.346459 23.520132,14.63517 C 21.295753,14.923881 22.078021,18.792325 23.262429,18.864623 z "
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99639398;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="path4494"
+           d="M 17.836518,21.717034 C 18.678553,21.346385 17.944966,17.721024 16.513137,18.709744 C 15.081951,19.698625 16.994483,22.087523 17.836518,21.717034 z "
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99639398;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="path4496"
+           d="M 20.209029,19.819444 C 21.211405,19.61508 21.266352,15.503393 19.478815,16.240997 C 17.690957,16.978761 19.207455,20.024128 20.209029,19.819444 L 20.209029,19.819444 z "
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99639398;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           d="M 25.443268,29.020774 C 25.621122,30.379019 24.446837,31.049787 23.296811,30.174174 C 19.635783,27.386832 29.358465,25.996454 28.71758,22.188259 C 28.185625,19.027375 18.487203,20.000511 17.382806,24.9462 C 16.635241,28.291525 20.459984,32.932436 24.450853,32.932436 C 26.414155,32.932436 28.6787,31.159681 29.102368,28.913933 C 29.425944,27.201427 25.294816,27.887618 25.443268,29.020774 L 25.443268,29.020774 z "
+           id="path4498"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99639398;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 8,23.5 L 11,21 L 11,26 L 8,23.5 z "
+       id="path2214"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg1307"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/qwerty/.icons/MonoIce/scalable/actions"
+   sodipodi:docname="gtk-leave-fullscreen.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs1309" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.240051"
+     inkscape:cx="48.201767"
+     inkscape:cy="23.338326"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:grid-points="true"
+     inkscape:window-width="1268"
+     inkscape:window-height="947"
+     inkscape:window-x="6"
+     inkscape:window-y="27" />
+  <metadata
+     id="metadata1312">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.5625 0 C 2.4828592 0 2.6880382e-19 2.4828592 0 5.5625 L 0 42.4375 C 0 45.517141 2.4828592 48 5.5625 48 L 42.4375 48 C 45.517141 48 48 45.51714 48 42.4375 L 48 5.5625 C 48 2.4828592 45.51714 2.6880382e-19 42.4375 0 L 5.5625 0 z M 6.6875 4 L 41.3125 4 C 42.793705 4 44 5.2062942 44 6.6875 L 44 41.3125 C 43.999999 42.793705 42.793706 44 41.3125 44 L 6.6875 44 C 5.2062944 43.999999 4 42.793706 4 41.3125 L 4 6.6875 C 4 5.2062944 5.2062942 4 6.6875 4 z "
+       id="rect1315" />
+    <path
+       id="path3940"
+       d="M 22.85,22.85 L 22.85,6.75 L 17.1,12.5 L 11.35,6.75 L 6.75,11.35 L 12.5,17.1 L 6.75,22.85 L 22.85,22.85 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       sodipodi:nodetypes="cccccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3940"
+       id="use3062"
+       transform="matrix(-1,0,0,-1,48,48)"
+       width="48"
+       height="48" />
+  </g>
+</svg>

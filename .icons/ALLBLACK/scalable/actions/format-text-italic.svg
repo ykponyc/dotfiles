@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="format-text-italic.svg"
+   sodipodi:docbase="/home/qwerty/.icons/MonoBlack/scalable/actions"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   inkscape:window-height="616"
+   inkscape:window-width="772"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="true"
+   inkscape:zoom="2.3982705"
+   inkscape:cx="51.809535"
+   inkscape:cy="44.37705"
+   inkscape:window-x="1"
+   inkscape:window-y="1"
+   inkscape:current-layer="svg2"
+   width="48px"
+   height="48px" />
+	<g
+   id="Layer_x0020_3"
+   style="fill-rule:nonzero;stroke:#000000;stroke-width:0.88239425;stroke-miterlimit:4;fill:#000000;fill-opacity:1"
+   transform="matrix(1.1332803,0,0,1.1332803,-3.1987282,-3.1987282)">
+		<g
+   id="g5"
+   style="stroke-width:0.88239425;fill:#000000;fill-opacity:1">
+			
+			<path
+   style="stroke-width:3.48113346;stroke-linejoin:round;fill:#000000;fill-opacity:1"
+   d="M 19.5,29.7 L 13.2,39.5 L 8.1,39.5 L 28.6,8.5 L 34.4,8.5 L 39.9,39.4 L 34.9,39.4 L 33.3,29.6 L 19.5,29.6 L 19.5,29.7 z M 32.9,26.7 C 32.9,26.7 30.8,13.9 30.7,12.1 L 30.5,12.1 C 29.4,13.9 21.4,26.7 21.4,26.7 L 33,26.7 L 32.9,26.7 z "
+   id="path9" />
+		</g>
+	</g>
+	<g
+   id="crop_x0020_marks"
+   style="fill-rule:nonzero;stroke:#000000;stroke-width:0.88239425;stroke-miterlimit:4"
+   transform="matrix(1.1332803,0,0,1.1332803,-3.1987282,-3.1987282)">
+		<path
+   style="fill:none;stroke:none"
+   d="M 48,48 L 0,48 L 0,0 L 48,0 L 48,48 z "
+   id="path12" />
+	</g>
+</svg>

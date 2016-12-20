@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="format-text-strikethrough.svg"
+   sodipodi:docbase="/home/qwerty/.icons/MonoBlack/scalable/actions"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs23" /><sodipodi:namedview
+   inkscape:window-height="616"
+   inkscape:window-width="772"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="true"
+   inkscape:zoom="6.7833333"
+   inkscape:cx="55.46384"
+   inkscape:cy="25.213289"
+   inkscape:window-x="436"
+   inkscape:window-y="358"
+   inkscape:current-layer="svg2"
+   width="48px"
+   height="48px" />
+	<g
+   id="Layer_x0020_4"
+   style="fill-rule:nonzero;stroke:#ffffff;stroke-width:6.84856224;stroke-linejoin:round;stroke-miterlimit:4;fill:#000000;fill-opacity:1"
+   transform="matrix(1.133435,0,0,1.133435,-3.2024407,-3.2024407)">
+		<g
+   id="g5"
+   style="stroke-width:6.84856224;fill:#000000;fill-opacity:1">
+			<g
+   id="g7"
+   style="stroke-width:6.84856224;fill:#000000;fill-opacity:1">
+				
+				<path
+   style="stroke:none;fill:#000000;fill-opacity:1"
+   d="M 17.5,31.4 L 14.5,39.2 L 4.6,39.2 L 17.6,8.9 L 30.1,8.9 L 43.3,39.2 L 33,39.2 L 29.7,31.4 L 17.5,31.4 L 17.5,31.4 z M 28.3,26.2 C 28.3,26.2 24.2,15.7 23.6,13.9 L 23.4,13.9 C 22.8,15.7 18.9,26.2 18.9,26.2 L 28.3,26.2 L 28.3,26.2 z "
+   id="path11" />
+			</g>
+			<g
+   id="g13"
+   style="stroke-width:6.84856224;fill:#000000;fill-opacity:1">
+				
+				<path
+   style="stroke:none;fill:#000000;fill-opacity:1"
+   d="M 43.4,28.5 L 4.6,28.5 L 4.6,23 L 43.3,23 L 43.3,28.5 L 43.4,28.5 z "
+   id="path17" />
+			</g>
+		</g>
+	</g>
+	
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg3304"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/qwerty/.icons/MinimalBlack/scalable/actions"
+   sodipodi:docname="dialog-cancel.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3306" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.284246"
+     inkscape:cx="-1.0464871"
+     inkscape:cy="22.965237"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1278"
+     inkscape:window-height="950"
+     inkscape:window-x="1"
+     inkscape:window-y="47">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="24.000000"
+       id="guide6244" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="24.000000"
+       id="guide6246" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3309">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 24.016337,4.315992e-15 C 10.770857,4.315992e-15 -1.7048673e-15,10.748302 -1.7048673e-15,24 C -1.7048673e-15,37.251699 10.770856,47.999999 24.016337,48 C 37.261818,48 48,37.2517 48,24 C 48,10.748301 37.261818,-2.078484e-08 24.016337,4.315992e-15 z M 24.016337,8.7686062 C 26.554267,8.7686062 28.931839,9.4007604 31.041525,10.489851 L 10.423417,30.982409 C 9.327654,28.88557 8.6916269,26.522476 8.6916269,24 C 8.691627,15.598644 15.56351,8.7686062 24.016337,8.7686062 z M 37.609257,17.017591 C 38.705021,19.11443 39.341048,21.477524 39.341048,24 C 39.341048,32.401356 32.469165,39.231394 24.016337,39.231394 C 21.478407,39.231394 19.100835,38.599239 16.99115,37.510149 L 37.609257,17.017591 z "
+       id="path4768" />
+  </g>
+</svg>

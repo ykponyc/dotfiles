@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 -410 3380 1900"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="ooo-math.svg"
+   sodipodi:docbase="/home/qwerty/.icons/MonoBlack/scalable/apps"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     inkscape:window-height="614"
+     inkscape:window-width="772"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10000"
+     gridtolerance="10000"
+     objecttolerance="10000"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     width="48px"
+     height="48px"
+     showgrid="true"
+     inkscape:zoom="2.2828252"
+     inkscape:cx="-26.633509"
+     inkscape:cy="1.7622276"
+     inkscape:window-x="1"
+     inkscape:window-y="42"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="matrix(2.2899728,0,0,-2.1810471,349.22087,2018.75)"
+     id="g4"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1">
+    <path
+       d="M 32,1356 L 1049,1356 L 1076,1015 L 1038,1015 C 1033.3333,1082.3333 1022,1133.6667 1004,1169 C 986,1204.3333 961.33333,1230.3333 930,1247 C 898.66667,1263.6667 849,1271.6667 781,1271 L 318,1271 L 731,741 L 261,186 L 776,186 C 869.33333,186 940.66667,201 990,231 C 1039.3333,261 1076.3333,323.66667 1101,419 L 1139,410 L 1081,0 L 32,0 L 32,36 L 554,652 L 32,1320 L 32,1356 z "
+       id="path6"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,1300,1038)"
+     id="g8" />
+  <g
+     transform="matrix(1,0,0,-1,2500,1038)"
+     id="g12" />
+</svg>

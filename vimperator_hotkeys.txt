@@ -1,0 +1,65 @@
+
+## Movement
+j k - scrolling down/up
+h l - scrolling left/right
+<Space> / <C-b> - scroll down/up by one page
+<C-d> / <C-u> - scroll down/up by half page
+
+## History & tabs
+<C-o> / <C-i> - move back/forward in current history
+<gt> / <C-n> - go to next tab
+<gT> / <C-p> - go to previous tab
+g0 / g$ - go to first/last tab
+d - close the active tab
+:tabopen url - open url in new tab
+:open url - open in current tab
+
+## Hints about surfing
+f - quickhint mode
+F - open links in background tab
+; - extended hints
+	; - focus on element
+	? - show information about element
+	s - save a link destination
+	S - save a media object
+	a - save a link destination (propting for save location)
+	A - save a media object (prompting for save location
+	f -to focus a frame
+	o - to open its location in the current tab
+	t - to open its location in a new tab
+	b - to open its location in a new background tab
+	w - to open its location in a new window
+	F - to follow a sequence of hints in a several new tabs
+	O - to generate an :open with hints url (like O) 
+	T - to generate an :tabopen with hints (like T)
+	W - to generate an :winopen with hints (like W)
+	v - to view its destination source
+	V - to view its destination source in external editor
+	y - to yank its destination location
+	Y - to yank its text-description
+	# - to yank its anchor url
+	c - to open its context menu
+	i - to open a media object
+	I - to open a media object in a new tab
+;<Tab> - shows a list of extended hints modes
+
+
+## Exit
+:xall - exit and save current browsing session
+:qall - exit without saving session
+ZZ - equivalent to :xall
+ZQ - equivalent to :qall
+
+## Firefox abilities
+:dialog - access to Firefox dialog windows
+:bmarks - list of bookmarks
+	;? - hint numbers
+:bmark - add bookmark
+:history - shows history
+:emenu - access to Firefox menu
+:set toolbars=menu - toggle menu
+     toolbars=notabs - toggle off tabs
+
+
+
+

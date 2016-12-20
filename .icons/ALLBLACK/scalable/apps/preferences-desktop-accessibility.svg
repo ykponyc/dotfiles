@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg4289"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/qwerty/.icons/qw3rtY_new/scalable/apps"
+   sodipodi:docname="accessibility-directory.svg"
+   inkscape:export-filename="/home/andreas/project/gnome-icon-theme/scalable/categories/preferences-desktop-accessability.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4291">
+    <linearGradient
+       id="linearGradient7668">
+      <stop
+         style="stop-color:#92b4da;stop-opacity:1"
+         offset="0"
+         id="stop7670" />
+      <stop
+         style="stop-color:#5e91c8;stop-opacity:1"
+         offset="1"
+         id="stop7672" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5048">
+      <stop
+         style="stop-color:black;stop-opacity:0;"
+         offset="0"
+         id="stop5050" />
+      <stop
+         id="stop5056"
+         offset="0.5"
+         style="stop-color:black;stop-opacity:1;" />
+      <stop
+         style="stop-color:black;stop-opacity:0;"
+         offset="1"
+         id="stop5052" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="42.464398"
+     inkscape:cy="9.8164678"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1278"
+     inkscape:window-height="951"
+     inkscape:window-x="1"
+     inkscape:window-y="42" />
+  <metadata
+     id="metadata4294">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Accessability preferences</dc:title>
+        <dc:date>August 2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://www.gnome.org</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>accessability</rdf:li>
+            <rdf:li>wheelchair</rdf:li>
+            <rdf:li>handicap</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.625,21.1875 C 8.3437307,23.733223 6.2500001,27.621508 6.25,32.875 C 6.2500001,40.880193 12.873372,47.375003 21.0625,47.375 C 26.473174,47.374998 31.22086,44.546011 33.8125,40.3125 L 30.40625,36.9375 C 28.802353,40.440505 25.240361,42.90625 21.0625,42.90625 C 15.393107,42.906249 10.8125,38.417053 10.8125,32.875 C 10.8125,30.334643 11.033237,28.768148 12.625,27 L 12.625,21.1875 z "
+       id="path6720"
+       sodipodi:nodetypes="cssccsscc" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 21.647042,0.62500005 C 18.812348,0.62500005 16.511718,2.9237343 16.511718,5.7560976 L 16.511718,30.256221 L 29.045542,30.256221 L 37.016237,38.253049 L 42.758927,34.892802 L 40.994908,32.033909 L 38.200314,33.656441 L 30.192193,25.725487 L 21.061166,25.725487 L 21.061166,22.289634 L 29.064731,22.289634 L 29.064731,17.728659 L 21.061166,17.728659 L 21.112263,10.887195 C 24.511234,10.844931 26.782365,8.8538267 26.782365,5.7560976 C 26.782365,2.6787224 24.481736,0.62499994 21.647042,0.62500005 z "
+       id="path5642"
+       sodipodi:nodetypes="ccccccccccccccczc" />
+  </g>
+</svg>

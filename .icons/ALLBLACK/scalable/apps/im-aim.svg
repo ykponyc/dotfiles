@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90.000000"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
+   width="48px"
+   height="48px"
+   id="svg11300"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/qwerty/.icons/MonoIce/scalable/apps"
+   sodipodi:docname="im-aim.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient3251">
+      <stop
+         style="stop-color:#fff7ac;stop-opacity:1;"
+         offset="0"
+         id="stop3253" />
+      <stop
+         style="stop-color:#edd400;stop-opacity:1;"
+         offset="1"
+         id="stop3255" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     stroke="#c4a000"
+     fill="#edd400"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.25490196"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="15.873846"
+     inkscape:cy="36.000904"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="924"
+     inkscape:window-height="731"
+     inkscape:window-x="354"
+     inkscape:window-y="243"
+     objecttolerance="10000"
+     gridtolerance="10000"
+     guidetolerance="10000" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title>IM - AIM</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.39188337;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 28.874562,0.70203803 C 24.059741,0.70203803 20.108392,4.6533881 20.108391,9.4682089 C 20.108391,14.28303 24.059741,18.234379 28.874562,18.23438 C 33.689383,18.23438 37.640734,14.283031 37.640732,9.4682089 C 37.640732,4.6533878 33.689383,0.70203803 28.874562,0.70203803 z M 28.874562,4.6866612 C 31.525131,4.6866612 33.627648,6.817639 33.627648,9.4682089 C 33.627649,12.118778 31.525131,14.221295 28.874562,14.221295 C 26.223991,14.221295 24.121475,12.118778 24.121475,9.4682089 C 24.121475,6.8176387 26.223992,4.6866612 28.874562,4.6866612 z "
+       id="path2364" />
+    <path
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;marker:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+       d="M 20.9375,14 L 19.65625,15.59375 C 17.688637,18.060439 16.957452,20.358568 16.84375,22.3125 C 16.730048,24.266432 17.104299,25.727855 17.09375,26.9375 C 17.083201,28.147145 16.894582,29.183767 15.59375,30.875 C 14.292918,32.566233 11.773987,34.805062 7.25,37.71875 L 5.78125,38.6875 L 6.53125,40.28125 L 9.65625,46.71875 L 10.625,48.71875 L 12.5,47.5625 C 15.831197,45.532851 21.977971,43.367848 26.40625,37.375 C 29.000795,39.570279 30.97292,42.045553 33.21875,46.09375 L 34.125,47.71875 L 35.8125,46.9375 L 42.9375,43.59375 L 45.03125,42.625 L 43.75,40.6875 C 39.729733,34.508877 38.249669,32.289758 35.28125,28.5 C 39.201628,27.929985 41.273795,26.150446 42.90625,25.25 L 44.875,24.1875 L 43.5625,22.34375 L 39.3125,16.40625 L 38.3125,15 L 36.78125,15.78125 C 32.596328,17.926522 29.737673,18.256258 27.625,17.90625 C 25.512327,17.556242 23.979289,16.485261 22.5,15.28125 L 20.9375,14 z M 21.84375,19.65625 C 23.248736,20.594623 24.840768,21.491206 26.96875,21.84375 C 29.671127,22.291454 33.03264,21.643366 36.9375,19.9375 L 39.0625,22.90625 C 37.356092,24.037562 35.80233,24.975168 31.46875,24.65625 L 26.84375,24.3125 L 29.75,27.9375 C 34.658478,33.979045 35.615986,35.497261 39.15625,40.96875 L 35.6875,42.5625 C 33.262794,38.477457 30.876846,35.337231 27.34375,32.8125 L 25.53125,31.53125 L 24.4375,33.4375 C 21.287952,38.956076 16.542922,40.865138 12.34375,43.09375 L 10.84375,40.0625 C 14.598096,37.512756 17.215477,35.307559 18.75,33.3125 C 20.500695,31.036393 21.077744,28.835441 21.09375,27 C 21.109756,25.164559 20.771367,23.775129 20.84375,22.53125 C 20.893564,21.675209 21.234778,20.746967 21.84375,19.65625 z "
+       id="path3239" />
+  </g>
+</svg>

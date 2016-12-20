@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/qwerty/.icons/MonoIce/scalable/apps"
+   sodipodi:docname="gksu-root-terminal.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.8880106"
+     inkscape:cx="10.2037"
+     inkscape:cy="13.484221"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:grid-points="true"
+     gridspacingy="1px"
+     gridspacingx="1px"
+     gridoriginy="0.0000000pt"
+     gridoriginx="0.0000000pt"
+     gridtolerance="1.0000000pt"
+     guidetolerance="1.0000000pt"
+     inkscape:guide-points="true"
+     inkscape:window-width="772"
+     inkscape:window-height="948"
+     inkscape:window-x="502"
+     inkscape:window-y="42"
+     width="48px"
+     height="48px"
+     gridanglex="37.5px"
+     gridanglez="37.5px"
+     grid_units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.75 3 C 2.5670867 3 2.7781787e-19 5.4785915 0 8.5625 L 0 39.4375 C 0 42.521408 2.5670867 45 5.75 45 L 42.25 45 C 45.432913 45 48 42.521407 48 39.4375 L 48 8.5625 C 48 5.4785915 45.432913 3 42.25 3 L 5.75 3 z M 8.375 7.65625 L 39.625 7.65625 C 41.668085 7.65625 43.3125 9.2866996 43.3125 11.3125 L 43.3125 36.6875 C 43.312499 38.7133 41.668086 40.34375 39.625 40.34375 L 8.375 40.34375 C 6.3319141 40.343752 4.6875 38.7133 4.6875 36.6875 L 4.6875 11.3125 C 4.6875 9.2866999 6.3319137 7.65625 8.375 7.65625 z "
+       id="rect3308" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:none"
+       id="rect1306"
+       width="60"
+       height="60"
+       x="0"
+       y="0"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6963"
+       width="14.476191"
+       height="5.8333335"
+       x="25.206347"
+       y="31"
+       rx="0"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:36.86658859px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:URW Bookman L"
+       x="2.4068167"
+       y="39.965115"
+       id="text3152"
+       transform="scale(1.1471608,0.8717173)"><tspan
+         sodipodi:role="line"
+         id="tspan3154"
+         x="2.4068167"
+         y="39.965115"
+         style="font-weight:bold">#</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   x="0"
+   y="0"
+   width="48"
+   height="48"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="rhythmbox.svg"
+   sodipodi:docbase="/home/qwerty/.icons/MonoBlack/scalable/apps"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/qwerty/.icons/MonoBlack/48x48/apps/rhythmbox.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.78125"
+     inkscape:cx="2.0613884"
+     inkscape:cy="23.944403"
+     inkscape:window-width="754"
+     inkscape:window-height="616"
+     inkscape:window-x="3"
+     inkscape:window-y="48"
+     inkscape:current-layer="svg1"
+     width="48px"
+     height="48px" />
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient772">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop773" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop774" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient775"
+       xlink:href="#linearGradient772" />
+    <defs
+       id="defs1083" />
+  </defs>
+  <g
+     transform="matrix(2.1093668,-0.4023313,0.6340622,1.3384529,-60.341009,-5.2525501)"
+     style="font-size:12px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+     id="g849">
+    <ellipse
+       cx="23.921297"
+       cy="43.331436"
+       rx="10.433757"
+       ry="7.2527337"
+       transform="matrix(0.508511,-0.121315,-2.652734e-2,0.543782,14.34905,17.32168)"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5;stroke-opacity:1"
+       id="path838"
+       sodipodi:cx="23.921297"
+       sodipodi:cy="43.331436"
+       sodipodi:rx="10.433757"
+       sodipodi:ry="7.2527337" />
+    <path
+       d="M 30.68538,36.18649 L 30.68538,17.82717"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.61390901;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path839" />
+    <path
+       d="M 30.15322,17.01555 C 29.48803,17.76589 29.88714,19.51668 29.7541,20.6422 C 39.0668,19.7668 39.86503,33.89821 39.99807,29.89639 C 37.07122,15.1397 30.81841,16.26521 30.15322,17.01555 z "
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.50685698;stroke-linejoin:round;stroke-opacity:1"
+       id="path841" />
+  </g>
+</svg>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg7854"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docbase="/home/qwerty/.icons/MonoIce/scalable/apps"
+   sodipodi:docname="blender.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/jimmac/gfx/ximian/art/icons/application-icons/blender/32x32/blender.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs7856">
+    <linearGradient
+       id="linearGradient39155">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop39157" />
+      <stop
+         style="stop-color:#dadada;stop-opacity:1;"
+         offset="1"
+         id="stop39159" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient35500">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop35502" />
+      <stop
+         style="stop-color:white;stop-opacity:0;"
+         offset="1"
+         id="stop35504" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient35500"
+       id="linearGradient35506"
+       x1="21.204315"
+       y1="21.699249"
+       x2="20.155914"
+       y2="-26.279823"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#e0e0e0"
+     borderopacity="1"
+     gridtolerance="10000"
+     guidetolerance="10000"
+     objecttolerance="10000"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="11.794367"
+     inkscape:cy="8.8216328"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="48px"
+     height="48px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1046"
+     inkscape:window-height="975"
+     inkscape:window-x="76"
+     inkscape:window-y="24"
+     showgrid="true" />
+  <metadata
+     id="metadata7859">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999982;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 24.65625 4 C 24.080836 4.0080494 23.494777 4.1490776 23 4.5 C 21.672223 5.4380443 21.538823 7.3959274 22.75 8.40625 C 24.400019 9.724192 25.968251 11.006862 27.59375 12.3125 C 25.157524 12.31526 8.75 12.34375 8.75 12.34375 C 7.557717 12.34375 6.618413 12.820002 6.03125 13.53125 C 5.444087 14.242498 5.2085293 15.132178 5.1875 16 C 5.143781 17.80416 6.6426377 19.654466 8.78125 19.65625 C 8.78125 19.65625 13.421624 19.684821 16.71875 19.6875 C 11.688621 23.373267 6.6547991 27.032276 1.625 30.71875 L 1.625 30.75 C -0.1660778 32.139779 -0.46390928 34.497384 0.71875 36.03125 C 1.320564 36.811285 2.2193588 37.217643 3.15625 37.21875 C 4.0931412 37.219857 5.0555118 36.845381 5.9375 36.125 C 5.9375 36.125 12.806369 30.440073 14.28125 29.21875 C 14.264536 29.457502 14.246739 29.533565 14.25 29.75 C 14.262035 30.467796 14.471971 31.65413 14.78125 32.65625 C 15.422685 34.725347 16.49087 36.65934 18 38.34375 C 19.547506 40.071491 21.461312 41.453487 23.65625 42.4375 C 25.965672 43.471405 28.472417 44.004153 31.0625 44 C 33.652488 43.994454 36.160621 43.447567 38.46875 42.40625 C 40.661947 41.412926 42.547292 40.013499 44.09375 38.28125 C 45.599089 36.590614 46.702511 34.694777 47.34375 32.625 C 47.668426 31.577464 47.853262 30.505058 47.9375 29.4375 C 48.018473 28.387809 47.991403 27.330595 47.84375 26.28125 C 47.557003 24.23282 46.856718 22.313058 45.78125 20.5625 C 44.89095 19.112352 43.753 17.855056 42.4375 16.75 L 42.46875 16.71875 L 42.03125 16.375 C 42.03125 16.375 27.28125 4.90625 27.28125 4.90625 C 27.280353 4.9054961 27.258385 4.8821054 27.25 4.875 C 27.239571 4.8669217 27.229286 4.8517377 27.21875 4.84375 C 26.661919 4.4216188 25.958589 4.1298174 25.21875 4.03125 C 25.03029 4.0061419 24.848055 3.9973169 24.65625 4 z M 31.21875 17.78125 C 36.809426 17.781251 41.34375 21.876385 41.34375 26.9375 C 41.34375 31.998615 36.809426 36.125 31.21875 36.125 C 25.628074 36.125001 21.09375 31.998615 21.09375 26.9375 C 21.09375 21.876385 25.628074 17.78125 31.21875 17.78125 z "
+       id="path2482" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1.0074476;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="path2478"
+       d="M 25.368274,26.136836 C 25.447661,24.6686 26.156442,23.372583 27.221926,22.455049 C 28.270463,21.553087 29.678471,21.002358 31.216507,21.002358 C 32.753564,21.002358 34.161573,21.553087 35.209867,22.455049 C 36.276525,23.372583 36.984449,24.667628 37.064763,26.135866 C 37.147043,27.64692 36.550048,29.049969 35.503711,30.08913 C 34.437053,31.147744 32.916157,31.812304 31.216507,31.812304 C 29.515879,31.812304 27.994981,31.147744 26.928373,30.08913 C 25.880961,29.049969 25.286023,27.64692 25.368274,26.136836 z " />
+  </g>
+</svg>

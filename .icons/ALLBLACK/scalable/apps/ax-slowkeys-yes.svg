@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 9.0, SVG Export Plug-In  -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="gtk-ok.svg"
+   sodipodi:docbase="/home/qwerty/.icons/MonoIce/scalable/actions"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"><metadata
+   id="metadata34"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs32" /><sodipodi:namedview
+   inkscape:window-height="616"
+   inkscape:window-width="772"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   inkscape:zoom="6.7833335"
+   inkscape:cx="3.9711057"
+   inkscape:cy="25.058707"
+   inkscape:window-x="3"
+   inkscape:window-y="89"
+   inkscape:current-layer="svg2"
+   width="48px"
+   height="48px" />
+	<g
+   id="Layer_x0020_2"
+   style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4;fill:#000000;fill-opacity:1">
+		<path
+   style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.87550002;stroke-opacity:1"
+   d="M 24.1875 1.125 C 11.333831 1.3323172 1.125 11.518653 1.125 24.1875 C 1.125 36.865914 11.509085 47.25 24.1875 47.25 C 36.865914 47.249998 47.25 36.865916 47.25 24.1875 C 47.249998 11.509084 36.865916 1.125 24.1875 1.125 z M 33.03125 14.40625 C 34.03125 14.40625 34.825 14.5875 35.625 15.1875 C 37.225 16.3875 37.450002 18.587499 36.25 20.1875 L 25.4375 34.40625 C 24.8375 35.20625 23.84375 35.812501 22.84375 35.8125 C 21.84375 35.8125 20.831251 35.612501 20.03125 34.8125 L 12.25 27 C 10.85 25.6 10.85 23.4 12.25 22 C 13.05 21.4 13.84375 21 14.84375 21 C 15.84375 21 16.837499 21.4 17.4375 22 C 17.4375 22 20.637499 25.2 22.4375 27 C 24.6375 24.2 30.625 15.8125 30.625 15.8125 C 31.225 15.0125 32.031249 14.60625 33.03125 14.40625 z "
+   transform="scale(0.5,0.5)"
+   id="path5" />
+		<radialGradient
+   id="aigrd1"
+   cx="8.7680998"
+   cy="8.0513"
+   r="13.7645"
+   fx="8.7680998"
+   fy="8.0513"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   style="stop-color:#FED182"
+   id="stop8" />
+			<stop
+   offset="0.2809"
+   style="stop-color:#FFB310"
+   id="stop10" />
+			<stop
+   offset="1"
+   style="stop-color:#996E04"
+   id="stop12" />
+		</radialGradient>
+		
+	</g>
+	<g
+   id="Layer_x0020_3"
+   style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4"
+   transform="translate(0.1179361,0)">
+		
+		
+		<radialGradient
+   id="aigrd2"
+   cx="8.6732998"
+   cy="8.6187"
+   r="11.0872"
+   fx="8.6732998"
+   fy="8.6187"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop22" />
+			<stop
+   offset="1"
+   style="stop-color:#F0E1BD"
+   id="stop24" />
+		</radialGradient>
+		
+	</g>
+	<g
+   id="Layer_x0020_4"
+   style="fill-rule:nonzero;stroke:#000000;stroke-miterlimit:4">
+		<path
+   style="fill:none;stroke:none"
+   d="M 24,24 L 0,24 L 0,0 L 24,0 L 24,24 z "
+   id="path29" />
+	</g>
+</svg>

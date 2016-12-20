@@ -1,0 +1,104 @@
+# conky configuration
+#
+# The list of variables has been removed from this file in favour
+# of keeping the documentation more maintainable.
+# Check http://conky.sf.net for an up-to-date-list.
+#
+# For ideas about how to modify conky, please see:
+# http://crunchbanglinux.org/forums/topic/59/my-conky-config/
+#
+# For help with conky, please see:
+# http://crunchbanglinux.org/forums/topic/2047/conky-help/
+#
+# Enjoy! :)
+##############################################
+# Settings
+##############################################
+background yes
+use_xft yes
+xftfont cure:size=8
+xftalpha 1
+update_interval 1.0
+total_run_times 0
+own_window yes
+own_window_transparent yes
+own_window_type desktop
+#own_window_argb_visual yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+minimum_size 200 200
+maximum_width 240
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+default_color 656667
+default_shade_color 000000
+default_outline_color 828282
+alignment top_left
+gap_x 12
+gap_y 12
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+override_utf8_locale yes
+##############################################
+#  Output
+##############################################
+TEXT
+
+#######Горячие кнопочки###########
+S H O R T C U T    K E Y S
+${hr}
+
+#########Горячие клавиш отдельных приложений#####
+#########Горячие клавиши TMUX#######
+${color ffe066}$alignc TMUX
+${color 66aabb}Ctrl+a${color 656667}$alignr Префикс
+${color 66aabb}c${color 656667}$alignr Новое окно
+${color 66aabb}k${color 656667}$alignr уничтожить окно
+${color 66aabb}Ctrl+n${color 656667}$alignr Следующее окно
+${color 66aabb}Ctrl+p${color 656667}$alignr Предыдущее окно
+${color 66aabb}H${color 656667}$alignr Разбить по горизонтали
+${color 66aabb}V${color 656667}$alignr Разбить по вертикали
+${color 66aabb}Left,Right,Up,Down${color 656667}$alignr навигация по тайлам
+${color 66aabb}Ctrl+Arrows${color 656667}$alignr Изменить размер тайла
+${color 66aabb}CtrlT+F1-F9${color 656667}$alignr Перейти на окно 1-9
+##########Горячие клавиши ZSH#########
+${color ffe066}$alignc ZSH Aliases
+${color 66aabb}cdl${color 656667}$alignr cd & ls
+${color 66aabb}extract${color 656667}$alignr Распаковать архив
+${color 66aabb}mkcdr${color 656667}$alignr mkdir и cd в нее
+${color 66aabb}mktar, mktgz, mktbz${color 656667}$alignr создать архив
+${color 66aabb}lf${color 656667}$alignr ls только файлы
+${color 66aabb}ls${color 656667}$alignr ls --color=auto
+${color 66aabb}l${color 656667}$alignr ls -lFh
+${color 66aabb}lr${color 656667}$alignr ls -tRFh
+${color 66aabb}lt${color 656667}$alignr ls -ltFh
+${color 66aabb}rm${color 656667}$alignr mv -t ~/.local/share/Trash/files
+${color 66aabb}cp${color 656667}$alignr cp -i
+#######Горячие клавиши MC########
+${color ffe066}$alignc MC
+${color 66aabb}Tab, Ctrl+i${color 656667}$alignr сменить панель
+${color 66aabb}Insert, Ctrl+t${color 656667}$alignr выделить/снять выделение
+${color 66aabb}Alt+t${color 656667}$alignr Сменить вид
+${color 66aabb}+${color 656667}$alignr выделить группу файлов по regexp
+${color 66aabb}\${color 656667}$alignr снять выделение с группы
+${color 66aabb}Alt+.${color 656667}$alignr показать/скрыть скрытые файлы
+${color 66aabb}Alt+,${color 656667}$alignr горизонтально/вертикально
+${color 66aabb}Ctrl+u${color 656667}$alignr поменять панели местами
+${color 66aabb}Ctrl+x c${color 656667}$alignr chmod
+${color 66aabb}Ctrl+x o${color 656667}$alignr chown
+${color 66aabb}Ctrl+x i${color 656667}$alignr пассивная панель - info
+${color 66aabb}Ctrl+x q${color 656667}$alignr пассивная панель - preview
+${color 66aabb}Ctrl+Space${color 656667}$alignr подсчёт размера каталога
+${color 66aabb}Ctrl+r${color 656667}$alignr refresh
+${color 66aabb}Ctrl+x j${color 656667}$alignr показать фоновые задания
+${color 66aabb}Shift+F6${color 656667}$alignr переименовать файл
+${color 66aabb}Alt + Enter${color 656667}$alignr имя файла в shell
+${color 66aabb}Ctrl+x t${color 656667}$alignr имена помеченных в shell
+${color 66aabb}Ctrl+x p${color 656667}$alignr путь к текущей папке в shell
+${color 66aabb}Ctrl+V${color 656667}$alignr вставка из буфера обмена
+
+#######Горячие клавиши MOC########
+#######Горячие клавиши Sublime Text3########

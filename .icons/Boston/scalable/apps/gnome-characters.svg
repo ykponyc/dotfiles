@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg4216"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 48 48"
+   sodipodi:docname="accessories-character-map.svg">
+  <defs
+     id="defs4218" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#242424"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11"
+     inkscape:cx="2.6828367"
+     inkscape:cy="9.8391333"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     objecttolerance="10000"
+     guidetolerance="10000"
+     inkscape:snap-path-clip="true"
+     inkscape:snap-perpendicular="true"
+     inkscape:snap-tangential="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4764" />
+    <sodipodi:guide
+       position="0,57"
+       orientation="1,0"
+       id="guide4768" />
+    <sodipodi:guide
+       position="17,0"
+       orientation="0,1"
+       id="guide4772" />
+    <sodipodi:guide
+       position="40,48"
+       orientation="0,1"
+       id="guide4150" />
+    <sodipodi:guide
+       position="3,41"
+       orientation="1,0"
+       id="guide4154" />
+    <sodipodi:guide
+       position="7,45"
+       orientation="0,1"
+       id="guide4156" />
+    <sodipodi:guide
+       position="24,3"
+       orientation="0,1"
+       id="guide4160" />
+    <sodipodi:guide
+       position="41,22"
+       orientation="1,0"
+       id="guide4143" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4221">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Chris D</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>diazchris.deviantart.com</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-16)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#b6c1c9;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4197"
+       width="42"
+       height="42"
+       x="3"
+       y="19"
+       ry="0"
+       rx="0" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#b6c1c9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4145"
+       transform="matrix(0.76702031,0,0,0.76702031,15.312542,-7.3301107)">
+      <path
+         d="m 32.195312,71.003906 0,1.992188 -16.347656,0 q 0.253906,2.460937 1.777344,3.691406 1.523437,1.230469 4.257812,1.230469 2.207032,0 4.511719,-0.644532 2.324219,-0.664062 4.765625,-1.992187 l 0,5.390625 q -2.480469,0.9375 -4.960937,1.40625 -2.480469,0.488281 -4.960938,0.488281 -5.9375,0 -9.238281,-3.007812 -3.28125,-3.027344 -3.28125,-8.476563 0,-5.351562 3.222656,-8.417969 3.242188,-3.066406 8.90625,-3.066406 5.15625,0 8.242188,3.105469 3.105468,3.105469 3.105468,8.300781 z m -7.1875,-2.324219 q 0,-1.992187 -1.171875,-3.203125 -1.152343,-1.230468 -3.027343,-1.230468 -2.03125,0 -3.300782,1.152343 -1.269531,1.132813 -1.582031,3.28125 l 9.082031,0 z m -6.40625,-18.671875 5.507813,7.34375 -3.828125,0 -7.207031,-7.34375 5.527343,0 z"
+         id="path4150"
+         inkscape:connector-curvature="0"
+         style="fill:#b6c1c9" />
+    </g>
+  </g>
+</svg>

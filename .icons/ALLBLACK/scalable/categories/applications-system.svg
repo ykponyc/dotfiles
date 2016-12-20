@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   version="1.0"
+   sodipodi:docbase="/home/qwerty/.icons/qw3rtY_new/scalable/mimetypes"
+   sodipodi:docname="gnome-mime-application-x-ms-dos-executable.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3198">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop3200" />
+      <stop
+         style="stop-color:black;stop-opacity:0;"
+         offset="1"
+         id="stop3202" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3198"
+       id="radialGradient3204"
+       cx="15.3125"
+       cy="34.65625"
+       fx="15.3125"
+       fy="34.65625"
+       r="9.5"
+       gradientTransform="matrix(1,0,0,1.003289,0,-0.114001)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3198"
+       id="radialGradient3208"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.003289,0,-0.114001)"
+       cx="15.3125"
+       cy="34.65625"
+       fx="15.3125"
+       fy="34.65625"
+       r="9.5" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="31.985423"
+     inkscape:cy="18.127197"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     gridempspacing="2"
+     gridspacingx="0.5px"
+     gridspacingy="0.5px"
+     inkscape:window-width="1051"
+     inkscape:window-height="738"
+     inkscape:window-x="227"
+     inkscape:window-y="212"
+     inkscape:showpageshadow="false"
+     width="48px"
+     height="48px"
+     gridtolerance="10000"
+     inkscape:grid-points="false"
+     inkscape:grid-bbox="true"
+     showborder="true"
+     borderlayer="true"
+     inkscape:guide-bbox="false"
+     inkscape:object-paths="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Lapo Calamandrei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>System Run</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>run</rdf:li>
+            <rdf:li>launch</rdf:li>
+            <rdf:li>exec</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2904"
+       transform="matrix(1.8279334,0.4845307,-0.4897931,1.8082941,-26.808549,-12.550412)">
+      <path
+         id="path2779"
+         d="M 30.999811,-0.82288847 C 30.373265,-0.82289769 29.755721,-0.77049912 29.153133,-0.68353649 L 28.909282,2.7660957 C 27.83931,3.0066426 26.847127,3.4167227 25.947643,3.9856203 L 23.334383,1.7206693 C 22.080045,2.5220823 21.522566,3.07959 20.721195,4.3339912 L 22.98603,6.9473851 C 22.417161,7.8469145 22.007103,8.8391476 21.766568,9.9091756 L 18.317112,10.153038 C 18.230152,10.755657 18.177758,11.373231 18.177767,11.999811 C 18.177775,12.626392 18.23019,13.243968 18.317166,13.846588 L 21.766629,14.090552 C 22.007196,15.160588 22.417283,16.152833 22.986179,17.052379 L 20.721421,19.665706 C 21.522829,20.92013 22.080326,21.477656 23.334686,22.279105 L 25.94788,20.014231 C 26.84738,20.583156 27.839574,20.993264 28.909555,21.233843 L 29.153507,24.683482 C 29.756097,24.770463 30.373643,24.82288 31.000189,24.822889 C 31.626735,24.822898 32.244281,24.7705 32.846868,24.683537 L 33.090718,21.233905 C 34.160692,20.993358 35.152873,20.583278 36.052357,20.01438 L 38.665617,22.279331 C 39.919957,21.477918 40.477434,20.92041 41.278806,19.666009 L 39.01397,17.052615 C 39.582839,16.153086 39.992898,15.160853 40.233433,14.090825 L 43.682888,13.846962 C 43.769847,13.244344 43.822241,12.62677 43.822233,12.000189 C 43.822224,11.373611 43.76981,10.756033 43.682834,10.153413 L 40.233371,9.9094481 C 39.992804,8.8394129 39.582717,7.8471677 39.013821,6.9476216 L 41.278579,4.3342945 C 40.554396,3.0991778 39.919675,2.5223445 38.665314,1.7208955 L 36.05212,3.9857693 C 35.15262,3.4168452 34.160426,3.0067358 33.090445,2.7661574 L 32.846493,-0.683482 C 32.243903,-0.77046239 31.626359,-0.82287923 30.999811,-0.82288847 z M 30.999959,9.2124157 C 32.538628,9.2124388 33.787418,10.461292 33.787442,12.000041 C 33.787466,13.538791 32.538713,14.787607 31.000041,14.787585 C 29.461371,14.787562 28.212581,13.538709 28.212558,11.999959 C 28.212535,10.46121 29.461289,9.212393 30.999959,9.2124157 z "
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.27690554;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

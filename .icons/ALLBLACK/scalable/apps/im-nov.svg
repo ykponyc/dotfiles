@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   id="svg1306"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/qwerty/.icons/MonoIce/scalable/apps"
+   sodipodi:docname="im-nov.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs1308">
+    <linearGradient
+       id="linearGradient3191">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1;"
+         offset="0"
+         id="stop3193" />
+      <stop
+         style="stop-color:#d6d6d1;stop-opacity:1;"
+         offset="1"
+         id="stop3195" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.15294118"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="19.368122"
+     inkscape:cy="17.723268"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     stroke="#babdb6"
+     fill="#cc0000"
+     inkscape:window-width="1009"
+     inkscape:window-height="832"
+     inkscape:window-x="269"
+     inkscape:window-y="116"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata1311">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Groupwise Instant Messanger</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andreas Nilsson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://tango-project.org</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>im</rdf:li>
+            <rdf:li>chat</rdf:li>
+            <rdf:li>groupwise</rdf:li>
+            <rdf:li>gw</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 24.0625,1 C 11.0222,0.99999989 -2.2793793e-07,9.5270624 0,20.59375 C 8.0272821e-08,31.333221 10.522169,40.377558 25.125,40.25 C 26.817972,43.661779 30.667542,46.873137 36.4375,47 L 40.625,47.09375 L 38.03125,43.75 C 36.597884,41.913025 35.374738,40.761023 35.0625,37.8125 C 42.617515,34.604199 48.125,28.268654 48.125,20.59375 C 48.125002,9.5270611 37.102801,1.0000002 24.0625,1 z M 24.0625,5 C 35.376059,5.0000002 44.125001,12.239909 44.125,20.59375 C 44.125,26.774324 39.392119,32.26867 32.25,34.78125 L 30.90625,35.25 L 30.9375,36.6875 C 30.958097,38.77164 31.429562,40.372575 32.03125,41.75 C 29.982612,40.628426 28.661882,38.998456 28.25,37.6875 L 27.8125,36.21875 L 26.25,36.28125 C 12.623668,36.922701 4.0000001,28.946643 4,20.59375 C 3.9999998,12.23991 12.748942,4.9999999 24.0625,5 z "
+       id="path1314" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 16.048819,29.716885 L 16.048819,10.378619 L 28.29193,22.957134 L 28.29193,11.426946 L 31.939117,11.426946 L 31.939117,30.903339 L 19.53391,18.324825 L 19.53391,29.716885 L 16.048819,29.716885 z "
+       id="path1324"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>

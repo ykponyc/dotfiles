@@ -1,0 +1,102 @@
+# conky configuration
+#
+# The list of variables has been removed from this file in favour
+# of keeping the documentation more maintainable.
+# Check http://conky.sf.net for an up-to-date-list.
+#
+# For ideas about how to modify conky, please see:
+# http://crunchbanglinux.org/forums/topic/59/my-conky-config/
+#
+# For help with conky, please see:
+# http://crunchbanglinux.org/forums/topic/2047/conky-help/
+#
+# Enjoy! :)
+##############################################
+# Settings
+##############################################
+background yes
+use_xft yes
+xftfont cure:size=8
+xftalpha 1
+update_interval 1.0
+total_run_times 0
+own_window yes
+own_window_transparent yes
+own_window_type desktop
+#own_window_argb_visual yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+minimum_size 200 200
+maximum_width 240
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+default_color 656667
+default_shade_color 000000
+default_outline_color 828282
+alignment top_right
+gap_x 12
+gap_y 12
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+override_utf8_locale yes
+##############################################
+#  Output
+##############################################
+TEXT
+
+S Y S T E M    I N F O
+${hr}
+${color 66aabb}Host:${color 656667}$alignr$nodename
+${color 66aabb}Uptime:${color 656667}$alignr$uptime
+${color 66aabb}RAM:${color 656667}$alignr$mem/$memmax
+#${color 66aabb}Swap usage:${color 656667}$alignr$swap/$swapmax#
+${color 66aabb}Disk usage:${color 656667}$alignr${fs_used /}/${fs_size /}
+${color 66aabb}CPU usage:${color 656667}$alignr${cpu cpu0}%
+
+M U S I C
+${hr}
+${color 66aabb}MOC Status: ${color 656667}${alignr}${execi 6 mocp -Q %state}
+${color 66aabb}Artist: ${color 656667}${alignr}${moc_artist}
+${color 66aabb}Song: ${color 656667}${alignr}${moc_song}
+${color 66aabb}Time: ${color 656667} ${alignr}${moc_curtime} ${color 66aabb}/ ${color 656667}${moc_totaltime}
+
+${color ffe066}$alignc MOC Shortcuts
+${color 66aabb}Super+,${color 656667}$alignr Previous song
+${color 66aabb}Super+,${color 656667}$alignr Next song
+${color 66aabb}Super+/${color 656667}$alignr Stop/play
+${color 66aabb}l${color 656667}$alignr Switch layout
+${color 66aabb}a${color 656667}$alignr Add to playlist
+${color 66aabb}A${color 656667}$alignr Add recursively
+${color 66aabb}C${color 656667}$alignr Clear playlist
+${color 66aabb}m${color 656667}$alignr Go to $MusicDir
+${color 66aabb}d${color 656667}$alignr Delete from playlist
+${color 66aabb}o${color 656667}$alignr Play URL
+${color 66aabb}!${color 656667}$alignr Go to /media/data
+${color 66aabb}u${color 656667}$alignr File Up in playlist
+${color 66aabb}j${color 656667}$alignr File Down in playlist
+${color 66aabb}z${color 656667}$alignr Add/remove Queue
+${color 66aabb}Z${color 656667}$alignr Clear Queue
+
+########Запуск приложений#############
+${color ffe066}$alignc Launch Apps
+${color 66aabb}Super+Space${color 656667}$alignr Main Menu
+${color 66aabb}Super+x${color 656667}$alignr Terminal
+${color 66aabb}Super+t${color 656667}$alignr TMUX
+${color 66aabb}Super+f${color 656667}$alignr MC
+${color 66aabb}Super+e${color 656667}$alignr Atom
+${color 66aabb}Super+m${color 656667}$alignr MOC
+${color 66aabb}Super+w${color 656667}$alignr Firefox
+${color 66aabb}Super+l${color 656667}$alignr Logoutx
+#########Системные хот-кеи############
+${color ffe066}$alignc System Shortcuts
+${color 66aabb}Ctrl+Alt+Left${color 656667}$alignr Рабочий стол <-
+${color 66aabb}Ctrl+Alt+Right${color 656667}$alignr Рабочий стол ->
+${color 66aabb}Shift+Super+Right${color 656667}$alignr на рабочий стол ->
+${color 66aabb}Shift+Super+Left${color 656667}$alignr на рабочий стол <-
+${color 66aabb}Shift+Win+t${color 656667}$alignr отключить декорации окна
+${color 66aabb}Alt+Up${color 656667}$alignr Развернуть окно
+${color 66aabb}Alt+Down${color 656667}$alignr Свернуть окно
+${color 66aabb}Win+q${color 656667}$alignr Openbox exit
